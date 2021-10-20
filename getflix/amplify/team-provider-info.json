@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-getflix-dev-104505-authRole",
+      "UnauthRoleArn": "arn:aws:iam::482794971176:role/amplify-getflix-dev-104505-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::482794971176:role/amplify-getflix-dev-104505-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-getflix-dev-104505-deployment",
+      "UnauthRoleName": "amplify-getflix-dev-104505-unauthRole",
+      "StackName": "amplify-getflix-dev-104505",
+      "StackId": "arn:aws:cloudformation:us-east-1:482794971176:stack/amplify-getflix-dev-104505/261bd9d0-30eb-11ec-b504-0e6bbbe8dc6b",
+      "AmplifyAppId": "d3gw148xvt45pk"
+    }
+  }
+}
